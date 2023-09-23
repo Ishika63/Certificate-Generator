@@ -1,5 +1,8 @@
 # Certificate-Generator
 
+The Certificate Generator is a Python script that simplifies the process of creating customized certificates for various purposes. Whether you need certificates for workshops, seminars, or any other event, this script can save you time and effort.
+
+
 ### Docs
 
 All you need
