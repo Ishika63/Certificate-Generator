@@ -1,15 +1,5 @@
 # Certificate-Generator
 
-<p align="center">
-  <br>
-  <a href="main.py">Source Code</a> &nbsp; · &nbsp; 
-  <a href="#docs">Docs</a> &nbsp; · &nbsp;
-  <a href="https://raw.githubusercontent.com/tusharnankani/CertificateGenerator/main/main.py">Raw Script</a>
-  <br>
-</p>
-<br>
-
-
 ### Docs
 
 All you need
