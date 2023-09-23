@@ -87,8 +87,6 @@ Template | Result
 --- | ---
 <img src="template.png"> | <img src="out/Ishika Chokhani.png">
 
-Design Courtesy [@GauravRaj](https://www.instagram.com/gauravraj0510)
-
 <br>
 
 ### Future Scope?
